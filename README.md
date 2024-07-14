@@ -11,7 +11,7 @@
 
 Watching **Bo Qian's Modern C++** [youtube playlist](https://www.youtube.com/playlist?list=PL5jc9xFGsL8FWtnZBeTqZBbniyw0uHyaH)
 
-Progress: 3/20
+Progress: 4/20
 
 #### Side tracks
 
@@ -22,8 +22,8 @@ Progress: 3/20
 
 ## Resources
 
-- [modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
-
+- [modern-cpp-features | github](https://github.com/AnthonyCalandra/modern-cpp-features) 
 This github repo is a cheatsheet for major C++20/17/14/11 features.
 
-
+- [C++ Developer Roadmap | roadmap.sh](https://roadmap.sh/cpp)  
+The curated step-by-step c++ guide for beginners.
